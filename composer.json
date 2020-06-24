@@ -12,11 +12,11 @@
     }],
     "require": {
         "php": "^7.2",
+        "aimeos/aimeos-laravel": "~2019.10",
         "fideloper/proxy": "^4.0",
         "laravel/framework": "^6.0",
         "laravel/tinker": "^1.0",
-        "laravel/ui": "^1.0",
-        "aimeos/aimeos-laravel": "~2019.10"
+        "laravel/ui": "^1.0"
     },
     "require-dev": {
         "facade/ignition": "^1.4",
