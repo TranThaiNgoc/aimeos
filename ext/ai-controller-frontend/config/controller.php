@@ -9,6 +9,3 @@ return array(
 		),
 	),
 );
- return array(
-	'haha'
- );
